@@ -1,4 +1,4 @@
-If you want to generate our data:
+If you want to generate data:
 1. using get_all_kmer_id.py to generate all 16-kmers of human.faste. Then later you can choose negative data from this generated dictionary.
 2. using get pdb.py to download all structure pdb files.
 3. using main.py to generate squence and structure information with given 16-kmer (positive or negtative)
